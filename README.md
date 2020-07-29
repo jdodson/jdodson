@@ -15,3 +15,5 @@ Fun projects to tippity-tap:
 [😡  The Mad Titan](https://github.com/jdodson/themadtitan)
 
 [⚔️  Zemus Gem](https://github.com/jdodson/zemus)
+
+[Tweets](https://twitter.com/jdodson) | [LinkedIn](https://www.linkedin.com/in/jonathandodson/) | [Resume](http://jdodson.org/resume.html)
