@@ -4,8 +4,14 @@ My name is Jon Dodson and I am a partner to Francesca and father to Finley. I'm 
 
 I work at [Salesforce](https://salesforce.com) for [Trailhead](https://trailblazer.me/id/jdodson)🏕  as a Lead Member of Technical Staff.
 
+Fun projects to tippity-tap:
+
 [🐉  Tale of the White Wyvern](https://thewhitewyvern.com)
 
 [👻  Cheerful Ghost](https://cheerfulghost.com)
 
 [👾  Video Game Webring](http://vgw.io/)
+
+[😡  The Mad Titan](https://github.com/jdodson/themadtitan)
+
+[⚔️  Zemus Gem](https://github.com/jdodson/zemus)
