@@ -4,7 +4,7 @@ My name is [Jon Dodson](http://jdodson.org) and I am a partner to Francesca and 
 
 I work at [Salesforce](https://salesforce.com) for [Trailhead](https://trailblazer.me/id/jdodson)🏕  as a Lead Member of Technical Staff.
 
-Fun projects to tippity-tap I created:
+Fun projects I created you can tippity-tap:
 
 [🐉  Tale of the White Wyvern](https://thewhitewyvern.com)
 
