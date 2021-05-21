@@ -1,6 +1,6 @@
 Welcome friend ❤️
 
-My name is [Jon Dodson](http://jdodson.org) and I am a partner to Francesca and father to Finley. I'm an Engineer and built the video game community [Cheerful Ghost](https://cheerfulghost.com) 👻  and text based mini-MMO [Tale of the White Wyvern](https://thewhitewyvern.com)🐉 .
+My name is [Jon Dodson](http://jdodson.org) and I am a father to Finley. I'm also an Engineer and built the video game community [Cheerful Ghost](https://cheerfulghost.com) 👻  and text based mini-MMO [Tale of the White Wyvern](https://thewhitewyvern.com)🐉 .
 
 I work at [Salesforce](https://salesforce.com) for [Trailhead](https://trailblazer.me/id/jdodson)🏕  as a Lead Member of Technical Staff.
 
