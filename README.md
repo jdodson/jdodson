@@ -2,7 +2,7 @@ Welcome friend ❤️
 
 My name is [Jon Dodson](http://jdodson.org) and I'm an Engineer, built the video game community [Cheerful Ghost](https://cheerfulghost.com) 👻, text based mini-MMO [Tale of the White Wyvern](https://thewhitewyvern.com)🐉 and a father to Finley.
 
-I work at [Salesforce](https://salesforce.com) for [Trailhead](https://trailblazer.me/id/jdodson)🏕  as a Lead Member of Technical Staff.
+I work at [Salesforce](https://salesforce.com) for [Heroku](https://heroku.com)  as a Lead Member of Technical Staff.
 
 Fun projects I created you can tippity-tap:
 
